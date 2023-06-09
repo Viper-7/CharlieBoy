@@ -8,7 +8,7 @@ Just yesterday I learned that my nephew who I haven't spoken to in over a decade
 
 As it comes it's a Tetris game, simple but surprisingly addictive, I caught myself getting carried away playing it more than a few times while testing 😁 The code for it is in this repository. The LCD is an older ILI9328 shield I had lying around, and I couldn't find many finished game projects for it, so I ported this one from https://github.com/vilaca/Handheld-Color-Console/tree/master/ArduinoTetris
 
-![image](https://github.com/Viper-7/CharlieBoy/assets/39548/654507f4-4ffc-48f7-94b4-a20aab5b5707)
+![image](https://github.com/Viper-7/CharlieBoy/assets/39548/9aa1fee4-0656-4001-b7c3-b453f8e83116)
 
 However the real trick is the fact that the unit itself is only held together by the pins on the shield - you can literally just rip the thing apart and start hacking. Once the cover is off there's an Arduino Uno, fully available and ready for breadboarding, with a lithium battery and charger hidden beneath it, and a touchscreen, joystick with button, and power switch for user interface.
 
