@@ -16,13 +16,13 @@ However the real trick is the fact that the unit itself is only held together by
 
 It's intended to be a platform to start learning electronics and microcontroller development. It's fully customizable, the game on it can be changed or replaced, they can add buttons, dials, lights, etc to it, use the Touchscreen and SD card reader to show photos or art, etc, etc.
 
-I've included the OpenSCAD files for the chassis, and a list of everything else used in aliexpress links down below
-
-![image](https://github.com/Viper-7/CharlieBoy/assets/39548/db019a88-63ea-4561-bb5e-ff60e87e53a9)
-
 The Arduino and Joystick are bolted down, with brass inserts melted into the 3d print. The switch is held in with a screw on collar, and the LCD (both the shield on the inside and the display on the outside) are attached with VHB tape.
 
 Hiding under the Arduino is a TP4056 + DW01 lithium charger + protection module, and a small 500mAh 1S LiPo battery. The joystick is wired to A6 and A7, which are not available on most Arduino Uno boards, but were broken out on this board so I used those to avoid occupying any "regular" pins. Only the switch inside the joystick shares with a regular arduino pin, A5. Total parts cost was under $20, tho shipping may vary.
+
+I've included the OpenSCAD files for the chassis, and a list of everything else used in aliexpress links down below
+
+![image](https://github.com/Viper-7/CharlieBoy/assets/39548/db019a88-63ea-4561-bb5e-ff60e87e53a9)
 
 
 Complete Parts List:
