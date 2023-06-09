@@ -4,7 +4,7 @@ A hand-held gaming console / Arduino experimenters kit.
 
 ![A1CyZcg](https://github.com/Viper-7/CharlieBoy/assets/39548/a49645fa-029b-4b7b-8a56-e1dfed359e6a)
 
-Just yesterday I learned that my nephew who I haven't spoken to in over a decade, has a son turning 11 next week. This was my 24 hour project to make a gift for him, as a toy and hopefully a gateway into the wide world of electronics.
+Just yesterday I learned that I have a nephew who is turning 11 next week, with interests in computers, gaming, and art. This was my 24 hour project to make a gift for him, as a toy and hopefully a gateway into the wide world of electronics.
 
 As it comes it's a Tetris game, simple but surprisingly addictive, I caught myself getting carried away playing it more than a few times while testing 😁 The code for it is in this repository. The LCD is an older ILI9328 shield I had lying around, and I couldn't find many finished game projects for it, so I ported this one from https://github.com/vilaca/Handheld-Color-Console/tree/master/ArduinoTetris
 
