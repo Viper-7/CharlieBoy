@@ -18,7 +18,7 @@ It's intended to be a platform to start learning electronics and microcontroller
 
 The Arduino and Joystick are bolted down, with brass inserts melted into the 3d print. The switch is held in with a screw on collar, and the LCD (both the shield on the inside and the display on the outside) are attached with VHB tape.
 
-Hiding under the Arduino is a TP4056 + DW01 lithium charger + protection module, and a small 500mAh 1S LiPo battery, along with a diode and 2A PTC fuse so any mishaps are a little less dramatic. The joystick is wired to A6 and A7, which are not available on most Arduino Uno boards, but were broken out on this board so I used those to avoid occupying any "regular" pins. Only the switch inside the joystick shares with a regular arduino pin, A5. Total parts cost was under $20, tho shipping may vary.
+Hiding under the Arduino is a TP4056 + DW01 lithium charger + protection module, and a small 500mAh 1S LiPo battery, along with a diode and 2A PTC fuse so any mishaps are a little less dramatic. The joystick is wired to A6 and A7, which are not available on most Arduino Uno boards, but were broken out on this board so I used those to avoid occupying any "regular" pins. With the screen removed, only the switch inside the joystick shares with a regular arduino pin, A5. Total parts cost was under $20, tho shipping may vary.
 
 I've included the OpenSCAD files for the chassis, and a list of everything else used in aliexpress links down below
 
