@@ -26,12 +26,12 @@ Hiding under the Arduino is a TP4056 + DW01 lithium charger + protection module,
 
 
 Complete Parts List:
-LCD Module: https://s.click.aliexpress.com/e/_DnsErhJ
-Arduino Uno with A6+A7: https://s.click.aliexpress.com/e/_DmORDdP
-TP4056+DW01: https://s.click.aliexpress.com/e/_DeaHOff
-Joystick Module: https://s.click.aliexpress.com/e/_Dd41Vq1
-Switch + Cover: https://s.click.aliexpress.com/e/_DmSk5vR
-M2 Threaded Inserts: https://s.click.aliexpress.com/e/_DDOrytL
-M2 Bolts: https://s.click.aliexpress.com/e/_DEwoBIp
-500mAh Battery: https://s.click.aliexpress.com/e/_DCwWl85
+* LCD Module: https://s.click.aliexpress.com/e/_DnsErhJ
+* Arduino Uno with A6+A7: https://s.click.aliexpress.com/e/_DmORDdP
+* TP4056+DW01: https://s.click.aliexpress.com/e/_DeaHOff
+* Joystick Module: https://s.click.aliexpress.com/e/_Dd41Vq1
+* Switch + Cover: https://s.click.aliexpress.com/e/_DmSk5vR
+* M2 Threaded Inserts: https://s.click.aliexpress.com/e/_DDOrytL
+* M2 Bolts: https://s.click.aliexpress.com/e/_DEwoBIp
+* 500mAh Battery: https://s.click.aliexpress.com/e/_DCwWl85
 
